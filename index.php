@@ -20,7 +20,8 @@
 	<link rel="stylesheet" href="stylesheets/base.css">
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
 	<link rel="stylesheet" href="stylesheets/layout.css">
-	<link rel='stylesheet' href='//fonts.googleapis.com/css?family=Lilita+One'>    
+	<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Lilita+One'> 
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=PT+Sans'>   
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -42,8 +43,15 @@
 	================================================== -->
 
 	<h1>YES</h1>
-
-
+    
+    <p>Of course, there's one every week.</p>
+    
+    <p>We have received 59 CORE related emails since the 3rd October 2013. This is <?php echo datediff('ww', '9 July 2003', '4 March 2004', false); ?> per week</p>
+    
+    <p>Stop the assault on our inboxes! A healthy, open research environment is essential, but this is not the way to achieve it</p>
+    
+    <p>Allow us to opt-out of these notifications, or 
+    
 <!-- End Document
 ================================================== -->
 </body>
